@@ -1,0 +1,233 @@
+#EXTM3U
+
+##########################       IPTVCRIATIVOHD    ###########################
+
+########################## Como funciona a Internet ##########################
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Como funciona a Internet - NIC.br", Internet Revelada - um filme sobre a Internet e os Pontos de Troca de Tráfego (PTTs) 
+https://youtu.be/QXUpRg29iZQ
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Como funciona a Internet - NIC.br", Como funciona a Internet? Parte 1: O protocolo IP 
+https://youtu.be/HNQD0qJ0TC4?list=PLdDM0p_v-3ylN7JXjNR9cXO_VIcVgNotO
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Como funciona a Internet - NIC.br", Como funciona a Internet? Parte 2: Sistemas Autônomos, BGP, PTTs
+https://youtu.be/C5qNAT_j63M?list=PLdDM0p_v-3ylN7JXjNR9cXO_VIcVgNotO
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Como funciona a Internet - NIC.br", Como funciona a Internet? Parte 3: DNS 
+https://youtu.be/ACGuo26MswI?list=PLdDM0p_v-3ylN7JXjNR9cXO_VIcVgNotO
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Como funciona a Internet - NIC.br", Como funciona a Internet? Parte 4: Governança da Internet
+https://youtu.be/ZYsjMEISR6E?list=PLdDM0p_v-3ylN7JXjNR9cXO_VIcVgNotO
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Como funciona a Internet - NIC.br", Os endereços IP não são todos iguais - parte 1
+https://youtu.be/jnuHODaLcO8?list=PLxvyNgS1BGn6V3vxq-5X1qQnWvgsfs3pU
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Como funciona a Internet - NIC.br", Os endereços IP não são todos iguais - parte 1
+https://youtu.be/jnuHODaLcO8?list=PLxvyNgS1BGn6V3vxq-5X1qQnWvgsfs3pU
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Como funciona a Internet - NIC.br", Os endereços IP não são todos iguais - parte 2
+https://youtu.be/63M61wttuMk?list=PLxvyNgS1BGn6V3vxq-5X1qQnWvgsfs3pU
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Como funciona a Internet - NIC.br", Introdução ao roteamento de pacotes IP
+https://youtu.be/y9Vx5l-th9Y?list=PLxvyNgS1BGn6V3vxq-5X1qQnWvgsfs3pU
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Como funciona a Internet - NIC.br", Fragmentação de pacotes IPv6 e IPv4, explicada pelo NIC.br
+https://youtu.be/5OtebbSnwoM?list=PLxvyNgS1BGn6V3vxq-5X1qQnWvgsfs3pU
+
+########################## Gerenciamento de Redes ##########################
+
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Introdução ao Gerenciamento de Redes - NIC.br", Introdução ao Gerenciamento de Redes - parte 1
+https://youtu.be/RntTxnDsM9g?list=PLQq8-9yVHyOYDZ7F57KAsy6q2q10QaWtU
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Introdução ao Gerenciamento de Redes - NIC.br", Introdução ao Gerenciamento de Redes - parte 2 - IPAM
+https://youtu.be/B1sIGZczwUM?list=PLQq8-9yVHyOYDZ7F57KAsy6q2q10QaWtU
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Introdução ao Gerenciamento de Redes - NIC.br", Introdução ao Gerenciamento de Redes - parte 3 - IDSs
+https://youtu.be/q2DkfPzXgAA?list=PLQq8-9yVHyOYDZ7F57KAsy6q2q10QaWtU
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Introdução ao Gerenciamento de Redes - NIC.br", Introdução ao Gerenciamento de Redes - parte 4 - SNMP
+https://youtu.be/PqgDoG4gLK0?list=PLQq8-9yVHyOYDZ7F57KAsy6q2q10QaWtU
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Introdução ao Gerenciamento de Redes - NIC.br", Introdução ao Gerenciamento de Redes - parte 5 - Ferramentas de Monitoramento 
+https://youtu.be/TMZVAc8cVnU?list=PLQq8-9yVHyOYDZ7F57KAsy6q2q10QaWtU
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Introdução ao Gerenciamento de Redes - NIC.br", Introdução ao Gerenciamento de Redes - parte 6 - ICMP
+https://youtu.be/q9O59Tl9-pA?list=PLQq8-9yVHyOYDZ7F57KAsy6q2q10QaWtU
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Introdução ao Gerenciamento de Redes - NIC.br", O que é o INOC-DBA, explicado pelo NIC.br.
+https://youtu.be/NASm58FaYaw?list=PLQq8-9yVHyOYDZ7F57KAsy6q2q10QaWtU
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Introdução ao Gerenciamento de Redes - NIC.br", A importância do DNS nas redes, explicada pelo NIC.br
+https://youtu.be/epWv0-eqRMw
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Introdução ao Gerenciamento de Redes - NIC.br", Nivelamento de protocolo DNS e configuração de DNS reverso
+https://youtu.be/cRneZs9Lvno
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Introdução ao Gerenciamento de Redes - NIC.br", Tratamento de Incidentes de Seguranca na Internet, explicado pelo NIC.br 
+https://youtu.be/flu6JPRHW04
+
+
+########################## Introdução ao IPv6 ##########################
+
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Introdução IPv6 - NIC.br", O que é o IPv6, em português claro 
+https://youtu.be/_JbLr_C-HLk?list=PLQq8-9yVHyObGmdqA-aD_QaLrZaC_tkOI
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Introdução IPv6 - NIC.br", Como e por que implantar IPv6 na minha empresa
+https://youtu.be/MqthiSZWPy0?list=PLQq8-9yVHyObGmdqA-aD_QaLrZaC_tkOI
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Introdução IPv6 - NIC.br", Como o IPv6 afeta a segurança das redes
+https://youtu.be/Ywg3v9i7IpI?list=PLQq8-9yVHyObGmdqA-aD_QaLrZaC_tkOI
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Introdução IPv6 - NIC.br", Como e por que implantar IPv6 no meu provedor de acesso
+https://youtu.be/4TD9gijnkFI?list=PLQq8-9yVHyObGmdqA-aD_QaLrZaC_tkOI
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Introdução IPv6 - NIC.br", A Internet das coisas, explicada pelo NIC.br 
+https://youtu.be/jlkvzcG1UMk?list=PLQq8-9yVHyObGmdqA-aD_QaLrZaC_tkOI
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Introdução IPv6 - NIC.br", Os endereços IP não são todos iguais - parte 1
+https://youtu.be/jnuHODaLcO8?list=PLQq8-9yVHyObGmdqA-aD_QaLrZaC_tkOI
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Introdução IPv6 - NIC.br", Os endereços IP não são todos iguais - parte 2
+https://youtu.be/63M61wttuMk?list=PLQq8-9yVHyObGmdqA-aD_QaLrZaC_tkOI
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Introdução IPv6 - NIC.br", Fragmentação de pacotes IPv6 e IPv4, explicada pelo NIC.br
+https://youtu.be/5OtebbSnwoM?list=PLQq8-9yVHyObGmdqA-aD_QaLrZaC_tkOI
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Introdução IPv6 - NIC.br", Como fazer um bom plano de endereçamento IP - parte 1 
+https://youtu.be/h74MVDgfYV8?list=PLQq8-9yVHyObGmdqA-aD_QaLrZaC_tkOI
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Introdução IPv6 - NIC.br", Como fazer um bom plano de endereçamento IP - parte 2 
+https://youtu.be/8GjMjZFUMSk?list=PLQq8-9yVHyObGmdqA-aD_QaLrZaC_tkOI
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Introdução IPv6 - NIC.br", Problemas e implicações do uso do CGNAT (NAT no provedor) na Internet 
+https://youtu.be/uxu0ivaDAnc?list=PLQq8-9yVHyObGmdqA-aD_QaLrZaC_tkOI
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Introdução IPv6 - NIC.br", Técnicas de Transição IPv6 - parte 01 (Túneis) 
+https://youtu.be/81PCOyxUHh4?list=PLQq8-9yVHyObGmdqA-aD_QaLrZaC_tkOI
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Introdução IPv6 - NIC.br", Técnicas de Transição IPv6 - parte 02 (NAT444) 
+https://youtu.be/dRIOPyf6Tx8?list=PLQq8-9yVHyObGmdqA-aD_QaLrZaC_tkOI
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Introdução IPv6 - NIC.br", Técnicas de Transição IPv6 - parte 03 (NAT64, DNS64 e 464XLAT) 
+https://youtu.be/ZUWcLoK1gSQ?list=PLQq8-9yVHyObGmdqA-aD_QaLrZaC_tkOI
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Introdução IPv6 - NIC.br", Como e por que ativar o IPv6 em meu site ou serviço na Internet? 
+https://youtu.be/OglbsbunwM8?list=PLQq8-9yVHyObGmdqA-aD_QaLrZaC_tkOI
+
+
+########################## Endereçamento IPv6 ##########################
+
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Endereçamento IPv6 - NIC.br", Os endereços IP não são todos iguais - parte 1
+https://youtu.be/jnuHODaLcO8?list=PLQq8-9yVHyOZF5bSWrhUu7aMiwyiAvuhQ
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Endereçamento IPv6 - NIC.br", Os endereços IP não são todos iguais - parte 2 
+https://youtu.be/63M61wttuMk?list=PLQq8-9yVHyOZF5bSWrhUu7aMiwyiAvuhQ 
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Endereçamento IPv6 - NIC.br", Como fazer um bom plano de endereçamento IP - parte 1 
+https://youtu.be/h74MVDgfYV8?list=PLQq8-9yVHyOZF5bSWrhUu7aMiwyiAvuhQ
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Endereçamento IPv6 - NIC.br", Como fazer um bom plano de endereçamento IP - parte 2 
+https://youtu.be/8GjMjZFUMSk?list=PLQq8-9yVHyOZF5bSWrhUu7aMiwyiAvuhQ
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Endereçamento IPv6 - NIC.br", Planejamento e Endereçamento de Redes IPv6 - Parte 1
+https://youtu.be/rWVm9JCR4Fc?list=PLQq8-9yVHyOZF5bSWrhUu7aMiwyiAvuhQ
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Endereçamento IPv6 - NIC.br", Planejamento e Endereçamento de Redes IPv6 - Parte 2
+https://youtu.be/COblHE5hpfg?list=PLQq8-9yVHyOZF5bSWrhUu7aMiwyiAvuhQ
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Endereçamento IPv6 - NIC.br", Planejamento e Endereçamento IPv6 - Parte 3
+https://youtu.be/lRty4OlZWjA?list=PLQq8-9yVHyOZF5bSWrhUu7aMiwyiAvuhQ
+
+
+########################## Sincronização ao NTP ##########################
+
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Sincronização NTP - NTP.br", A importância da hora certa na Internet e o NTP.br, explicados pelo NIC.br
+https://youtu.be/hyCrd0x2yGg
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Sincronização NTP - NTP.br", Sincronização simplificada do Windows com o NTP  
+https://youtu.be/gUj9lhK9ydQ?list=PLQq8-9yVHyOb4jWJdJVzgGISXvE6QY7N2
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Sincronização NTP - NTP.br", Sincronização precisa do Windows com o NTP
+https://youtu.be/-8wtTMUfNFM?list=PLQq8-9yVHyOb4jWJdJVzgGISXvE6QY7N2
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Sincronização NTP - NTP.br", Sincronização precisa do Windows com o NTP para atuar como servidor 
+https://youtu.be/6edjmI_yEdw?list=PLQq8-9yVHyOb4jWJdJVzgGISXvE6QY7N2
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Sincronização NTP - NTP.br", Monitoramento do NTP em sistemas Windows 
+https://youtu.be/FYuHVH_cD6E?list=PLQq8-9yVHyOb4jWJdJVzgGISXvE6QY7N2
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Sincronização NTP - NTP.br", Sincronização do Mac com o NTP 
+https://youtu.be/KGTlI0p6dAc?list=PLQq8-9yVHyOb4jWJdJVzgGISXvE6QY7N2
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Sincronização NTP - NTP.br", Sincronização de sistemas MAC com o NTP como servidor 
+https://youtu.be/vxZKxBsxjeU?list=PLQq8-9yVHyOb4jWJdJVzgGISXvE6QY7N2
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Sincronização NTP - NTP.br", Sincronização de sistemas Linux com o NTP utilizando o NTPD via repositório - Cliente 
+https://youtu.be/I5PCKpR7n6Y?list=PLQq8-9yVHyOb4jWJdJVzgGISXvE6QY7N2
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Sincronização NTP - NTP.br", Sincronização de sistemas Linux com o NTP utilizando o NTPD via repositório - Servidor 
+https://youtu.be/LcY5U95uGlY?list=PLQq8-9yVHyOb4jWJdJVzgGISXvE6QY7N2
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Sincronização NTP - NTP.br", Sincronização de sistemas Linux com o NTP utilizando o NTPD via fontes - Cliente 
+https://youtu.be/sntKpMTgJOc?list=PLQq8-9yVHyOb4jWJdJVzgGISXvE6QY7N2
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Sincronização NTP - NTP.br", Sincronização de sistemas Linux com o NTP utilizando o NTPD via fontes - Servidor 
+https://youtu.be/O5M4Ur5kV2w?list=PLQq8-9yVHyOb4jWJdJVzgGISXvE6QY7N2
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Sincronização NTP - NTP.br", Ferramentas de monitoramento em sistemas Linux com o NTPD 
+https://youtu.be/2samwSd0zDw?list=PLQq8-9yVHyOb4jWJdJVzgGISXvE6QY7N2
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Sincronização NTP - NTP.br", Sincronização de sistemas Linux com o OpenNTPD 
+https://youtu.be/wMPeIswGQY0?list=PLQq8-9yVHyOb4jWJdJVzgGISXvE6QY7N2
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Sincronização NTP - NTP.br", Sincronização de roteadores Cisco com o NTP 
+https://youtu.be/dE9j5FIuGgg?list=PLQq8-9yVHyOb4jWJdJVzgGISXvE6QY7N2
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Sincronização NTP - NTP.br", Sincronização de roteadores Juniper com o NTP 
+https://youtu.be/Oft_ezihBD4?list=PLQq8-9yVHyOb4jWJdJVzgGISXvE6QY7N2
+
+#EXTINF:-1 tvg-logo="http://nic.br/docs-assets/images/logo-nicbr.png" group-title="Sincronização NTP - NTP.br", Sincronização de roteadores Mikrotik com o NTP 
+https://youtu.be/baSSttpsWcE?list=PLQq8-9yVHyOb4jWJdJVzgGISXvE6QY7N2
+
+########################## Filmes de Tecnologia ##########################
+
+#EXTINF:-1 tvg-logo="http://kbbpf.lescigales.org/Logos/CANAL-PLUS-CINEMA.HD.png" group-title="Filmes de Tecnologia", Invasores- Nenhum Sistema Está à Salvo 2015 Dublado 
+https://youtu.be/YQ-_BWFsL1o
+
+#EXTINF:-1 tvg-logo="http://kbbpf.lescigales.org/Logos/CANAL-PLUS-CINEMA.HD.png" group-title="Filmes de Tecnologia", Filme Completo-Códigos De Defesa
+https://youtu.be/SAGDPGPIEBA
+
+#EXTINF:-1 tvg-logo="http://kbbpf.lescigales.org/Logos/CANAL-PLUS-CINEMA.HD.png" group-title="Filmes de Tecnologia", Falha de Segurança
+https://youtu.be/7Gg25NALxG0
+
+#EXTINF:-1 tvg-logo="http://kbbpf.lescigales.org/Logos/CANAL-PLUS-CINEMA.HD.png" group-title="Filmes de Tecnologia", Invasores- Nenhum Sistema Está à Salvo
+https://youtu.be/YQ-_BWFsL1o
+
+#EXTINF:-1 tvg-logo="http://kbbpf.lescigales.org/Logos/CANAL-PLUS-CINEMA.HD.png" group-title="Filmes de Tecnologia", Sob o Domínio dos Robôs
+https://youtu.be/0WGIMNO2KIo
+
+#EXTINF:-1 tvg-logo="http://kbbpf.lescigales.org/Logos/CANAL-PLUS-CINEMA.HD.png" group-title="Filmes de Tecnologia", Johnny Mnemonic: O ciborg do futuro
+https://youtu.be/TRZLXBWitlE
+
+#EXTINF:-1 tvg-logo="http://kbbpf.lescigales.org/Logos/CANAL-PLUS-CINEMA.HD.png" group-title="Filmes de Tecnologia", O Assassino da Internet
+https://youtu.be/I-2O9N9Y9l0
+
+#EXTINF:-1 tvg-logo="http://kbbpf.lescigales.org/Logos/CANAL-PLUS-CINEMA.HD.png" group-title="Filmes de Tecnologia", Redes de Ambição - O Filme
+https://youtu.be/xhhcIQ4VnqY?list=PLem0_0DgXXgZTT4Z0W_5Jk8pBFRblfwK8
+
+#EXTINF:-1 tvg-logo="http://kbbpf.lescigales.org/Logos/CANAL-PLUS-CINEMA.HD.png" group-title="Filmes de Tecnologia", Anonymous o Filme
+https://youtu.be/nyVy_56jANw?list=PLem0_0DgXXgZTT4Z0W_5Jk8pBFRblfwK8
+
+#EXTINF:-1 tvg-logo="http://kbbpf.lescigales.org/Logos/CANAL-PLUS-CINEMA.HD.png" group-title="Filmes de Tecnologia", 
+
+#EXTINF:-1 tvg-logo="http://kbbpf.lescigales.org/Logos/CANAL-PLUS-CINEMA.HD.png" group-title="Filmes de Tecnologia", 
+
+#EXTINF:-1 tvg-logo="http://kbbpf.lescigales.org/Logos/CANAL-PLUS-CINEMA.HD.png" group-title="Filmes de Tecnologia", 
+
+#EXTINF:-1 tvg-logo="http://kbbpf.lescigales.org/Logos/CANAL-PLUS-CINEMA.HD.png" group-title="Filmes de Tecnologia", 
+
+#EXTINF:-1 tvg-logo="http://kbbpf.lescigales.org/Logos/CANAL-PLUS-CINEMA.HD.png" group-title="Filmes de Tecnologia", 
